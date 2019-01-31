@@ -1,0 +1,3 @@
+# WebView404Example
+这是用于构建android项目的测试项目
+关于解决webview加载html页面，出现404和500错误时，使用自定义view 隐藏错误界面
